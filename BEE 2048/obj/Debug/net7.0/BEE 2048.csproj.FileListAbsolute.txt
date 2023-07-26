@@ -1,0 +1,15 @@
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\bin\Debug\net7.0\BEE 2048.exe
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\bin\Debug\net7.0\BEE 2048.deps.json
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\bin\Debug\net7.0\BEE 2048.runtimeconfig.json
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\bin\Debug\net7.0\BEE 2048.dll
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\bin\Debug\net7.0\BEE 2048.pdb
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\BEE 2048.csproj.AssemblyReference.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\BEE 2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\BEE 2048.AssemblyInfoInputs.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\BEE 2048.AssemblyInfo.cs
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\BEE 2048.csproj.CoreCompileInputs.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\BEE 2048.dll
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\refint\BEE 2048.dll
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\BEE 2048.pdb
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\BEE 2048.genruntimeconfig.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2048\obj\Debug\net7.0\ref\BEE 2048.dll

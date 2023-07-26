@@ -1,0 +1,15 @@
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\bin\Debug\net7.0\BEE 2374.exe
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\bin\Debug\net7.0\BEE 2374.deps.json
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\bin\Debug\net7.0\BEE 2374.runtimeconfig.json
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\bin\Debug\net7.0\BEE 2374.dll
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\bin\Debug\net7.0\BEE 2374.pdb
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\BEE 2374.csproj.AssemblyReference.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\BEE 2374.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\BEE 2374.AssemblyInfoInputs.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\BEE 2374.AssemblyInfo.cs
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\BEE 2374.csproj.CoreCompileInputs.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\BEE 2374.dll
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\refint\BEE 2374.dll
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\BEE 2374.pdb
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\BEE 2374.genruntimeconfig.cache
+C:\Users\icaro\OneDrive\Documentos\MeusProjetos\beecrowd\BEE 2374\obj\Debug\net7.0\ref\BEE 2374.dll
