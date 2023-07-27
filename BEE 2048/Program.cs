@@ -4,7 +4,7 @@
 
         int N = int.Parse(Console.ReadLine());
 
-        int[] vet = new int[N + 1];
+        int[] vet = new int[N];
 
         for (int i = 0; i < N; i++) 
         {
@@ -12,19 +12,14 @@
         }
 
         int soma = 0;
-        int atual = vet[0];
+        int atual = 0;
         for (int i = 0; i < N; i++)
         {
             if (vet[i] != atual)
             {
-                soma += vet[i];
+                soma++;
             }
             atual = vet[i];
-        }
-        
-        if (soma > 7)
-        {
-            soma = 7;
         }
 
         Console.WriteLine(soma);
