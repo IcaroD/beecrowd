@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\BEE 2048.csproj": {}
+    "c:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\BEE 2048.csproj": {}
   },
   "projects": {
-    "C:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\BEE 2048.csproj": {
+    "c:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\BEE 2048.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\BEE 2048.csproj",
+        "projectUniqueName": "c:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\BEE 2048.csproj",
         "projectName": "BEE 2048",
-        "projectPath": "C:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\BEE 2048.csproj",
+        "projectPath": "c:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\BEE 2048.csproj",
         "packagesPath": "C:\\Users\\icaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\obj\\",
+        "outputPath": "c:\\Users\\icaro\\OneDrive\\Documentos\\MeusProjetos\\beecrowd\\BEE 2048\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
