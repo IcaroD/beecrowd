@@ -1,0 +1,15 @@
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\bin\Debug\net7.0\URI 1153.exe
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\bin\Debug\net7.0\URI 1153.deps.json
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\bin\Debug\net7.0\URI 1153.runtimeconfig.json
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\bin\Debug\net7.0\URI 1153.dll
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\bin\Debug\net7.0\URI 1153.pdb
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\URI 1153.csproj.AssemblyReference.cache
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\URI 1153.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\URI 1153.AssemblyInfoInputs.cache
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\URI 1153.AssemblyInfo.cs
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\URI 1153.csproj.CoreCompileInputs.cache
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\URI 1153.dll
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\refint\URI 1153.dll
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\URI 1153.pdb
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\URI 1153.genruntimeconfig.cache
+C:\Users\icaro\OneDrive\Documentos\beecrowd\URI 1153\obj\Debug\net7.0\ref\URI 1153.dll
