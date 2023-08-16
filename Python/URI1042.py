@@ -1,0 +1,16 @@
+values = input().split()
+a = int(values[0])
+b = int(values[1])
+c = int(values[2])
+
+maior = max(a,b,c)
+menor = min(a,b,c)
+medio = min(max(a,b),max(b,c),max(a,c))
+
+print(menor)
+print(medio)
+print(maior)
+print()
+print(a)
+print(b)
+print(c)
